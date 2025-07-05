@@ -23,8 +23,8 @@
 ## 📱 Projects 
 - [Haenaedda — I did it (해냈다)](https://github.com/hayeonhee/haenaedda) (built with Flutter)
   
-    작은 성공 경험을 시각적으로 기록하는 달력 앱 <br/>
-    A calendar app for visually recording small moments of success <br/>
+    작은 성공 경험을 시각적으로 기록하는 앱 <br/>
+    An app for visually recording small moments of success <br/>
 
 <br/>
 
