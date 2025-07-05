@@ -2,16 +2,16 @@
 
 <br/>
 
-- 모바일 앱 개발자 하연희입니다. 
-  I’m Yeonhee Ha, a mobile app developer — you can call me Yeoni.
-- 사용하기 편한 앱을 만드는 것을 가장 중요하게 생각합니다. 
-  I care most about building apps that are easy and pleasant to use.
-- 빠르게 결과물을 만들어가는 과정에서도 사용자 경험과 디자인을 놓치지 않으려 노력합니다.
-  Even when working fast to deliver results, I try not to overlook user experience or design.
-- 기술은 세상을 조금 더 이롭게 만드는 데 쓰이길 바랍니다.
-  I hope technology can be used to make the world a little better.
-- 함께 나누고 성장하는 개발자 문화를 좋아합니다. 
-  I value a developer culture where people grow by sharing and learning together.
+- 모바일 앱 개발자 하연희입니다. <br/>
+  I’m Yeonhee Ha, a mobile app developer — you can call me Yeoni. <br/>
+- 사용하기 편한 앱을 만드는 것을 가장 중요하게 생각합니다. <br/>
+  I care most about building apps that are easy and pleasant to use. <br/>
+- 빠르게 결과물을 만들어가는 과정에서도 사용자 경험과 디자인을 놓치지 않으려 노력합니다. <br/>
+  Even when working fast to deliver results, I try not to overlook user experience or design. <br/>
+- 기술은 세상을 조금 더 이롭게 만드는 데 쓰이길 바랍니다. <br/>
+  I hope technology can be used to make the world a little better. <br/>
+- 함께 나누고 성장하는 개발자 문화를 좋아합니다. <br/>
+  I value a developer culture where people grow by sharing and learning together. <br/>
 
 <br/>
 
@@ -46,19 +46,15 @@
 - [책 <운영체제> 스터디](https://github.com/Kraken-Addicts/Operating-System)
 - [책 <컴퓨터 구조> 스터디](https://github.com/Kraken-Addicts/Computer-Achitecture)
 
-<br/>
 
 ### 🧑‍💻 Bootcamp
 
 - **iOS Career Starter Camp** (2021.10 - 2022.4)
-  - UIKit 기반 7개 프로젝트 경험 (개인/팀 포함)
-    Participated in 10 app projects, including 7 built with UIKit
+  - UIKit 기반 7개 프로젝트 경험 (개인/팀 포함) <br/> 
+    Participated in 10 app projects, including 7 built with UIKit <br/>
   - [View all projects](https://github.com/hayeonhee/ios-yagom-academy)  
 
 - **42 Seoul** (2020.2 - 2022.1)
   - [View all projects (작성 중)](https://github.com/hayeonhee/42seoul-projects)  
-
-<br/>
-<br/>
 
 
