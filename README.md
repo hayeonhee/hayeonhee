@@ -36,9 +36,29 @@
 <br/>
 
 ---
+## 🌱 Experience
 
+### 📚 Study
+
+- [iOS 커리어스타터캠프 4기 면접 준비 스터디 (작성 중)](https://github.com/YagomCareerStarterCamp-4/iOS-Interview-Questions)
+- [책 <객체지향의 사실과 오해, 조영호 저> 스터디](https://github.com/de-vook/The-Essence-of-Object-Orientation)
+- [책 <HTTP 완벽 가이드> 스터디](https://github.com/Kraken-Addicts/HTTP-The-Definitive-Guide)
+- [책 <운영체제> 스터디](https://github.com/Kraken-Addicts/Operating-System)
+- [책 <컴퓨터 구조> 스터디](https://github.com/Kraken-Addicts/Computer-Achitecture)
 
 <br/>
 
+### 🧑‍💻 Bootcamp
+
+- **iOS Career Starter Camp** (2021.10 - 2022.4)
+  - UIKit 기반 7개 프로젝트 경험 (개인/팀 포함)
+    Participated in 10 app projects, including 7 built with UIKit
+  - [View all projects](https://github.com/hayeonhee/ios-yagom-academy)  
+
+- **42 Seoul** (2020.2 - 2022.1)
+  - [View all projects (작성 중)](https://github.com/hayeonhee/42seoul-projects)  
+
+<br/>
+<br/>
 
 
