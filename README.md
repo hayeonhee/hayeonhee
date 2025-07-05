@@ -3,18 +3,15 @@
 <br/>
 
 - 모바일 앱 개발자 하연희입니다. 
+  I’m Yeonhee Ha, a mobile app developer — you can call me Yeoni.
 - 사용하기 편한 앱을 만드는 것을 가장 중요하게 생각합니다. 
+  I care most about building apps that are easy and pleasant to use.
 - 빠르게 결과물을 만들어가는 과정에서도 사용자 경험과 디자인을 놓치지 않으려 노력합니다.
+  Even when working fast to deliver results, I try not to overlook user experience or design.
 - 기술은 세상을 조금 더 이롭게 만드는 데 쓰이길 바랍니다.
+  I hope technology can be used to make the world a little better.
 - 함께 나누고 성장하는 개발자 문화를 좋아합니다. 
-
-<br/>
-
-- I’m Yeonhee Ha, a mobile app developer — you can call me Yeoni.
-- I care most about building apps that are easy and pleasant to use.
-- Even when working fast to deliver results, I try not to overlook user experience or design.
-- I hope technology can be used to make the world a little better.
-- I value a developer culture where people grow by sharing and learning together.
+  I value a developer culture where people grow by sharing and learning together.
 
 <br/>
 
