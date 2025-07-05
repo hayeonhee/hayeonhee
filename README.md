@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Yeonhee
+# 👋 Hi, I'm Yeonhee
 
 <br/>
 
@@ -20,16 +20,19 @@
 
 ---
 
-### 📱 Projects 
+## 📱 Projects 
 - [Haenaedda — I did it (해냈다)](https://github.com/hayeonhee/haenaedda) (built with Flutter)
-작은 성공 경험을 시각적으로 기록하는 달력 앱 
-A calendar app for visually recording small moments of success
+  
+    작은 성공 경험을 시각적으로 기록하는 달력 앱 <br/>
+    A calendar app for visually recording small moments of success <br/>
 
 <br/>
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
+
+<br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
 
